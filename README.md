@@ -1,5 +1,5 @@
 # TUGAS 2 - Caching Observatory
-
+NMA RIFKI NUR FAHREZI AHMAD 105841104723
 Proyek ini adalah simulasi caching dan CDN untuk mata kuliah Scalable Systems Design. Pola pengerjaannya mengikuti TUGAS 1: tetap memakai dashboard React dan orkestrasi Docker Compose, tetapi mekanisme intinya diganti ke tema caching sesuai PPT dan materi GPT.
 
 ## Fitur Utama
