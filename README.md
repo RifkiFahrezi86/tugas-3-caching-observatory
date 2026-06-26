@@ -65,6 +65,4 @@ Catatan:
 
 - validasi `docker compose up --build -d` belum bisa dijalankan penuh pada sesi ini karena Docker daemon lokal belum aktif
 
-## Panduan Presentasi
 
-Lihat file `DEMO-DOSEN-CACHING.md` untuk skenario demo, narasi presentasi, screenshot checklist, dan langkah push GitHub.
